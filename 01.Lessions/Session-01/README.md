@@ -160,32 +160,140 @@ Những nguyên tắc trong thiết kiêu UI (UI Principles)
 
 ### 💥 Reuse
 
+
+Bạn có thể search với keyword: `Principles User Interface Design` để tìm hiểu rõ hơn về khái niệm này.
+
 ---
 
 ## 💛 Types of User Interfaces
 
 Các loại hình UI
 
-### 💥 graphical user interface (GUI)
 ### 💥 command line interface (CLI)
-### 💥 menu-driven user interface.
-### 💥 touch user interface.
+
+Command Line Interface (CLI) là một hình thức giao diện người dùng cho phép người dùng tương tác với hệ thống, ứng dụng hoặc thiết bị thông qua việc nhập lệnh văn bản vào dòng lệnh hoặc cửa sổ dòng lệnh. Trong CLI, người dùng phải gõ các lệnh và tham số liên quan để thực hiện các tác vụ và hoạt động
+
+- Command line (Window)
+- Terminal (Unix, Linux và macOS)
+
+### 💥 graphical user interface (GUI)
+
+Graphical User Interface (GUI) là một hình thức giao diện người dùng sử dụng hình ảnh đồ họa và các phần tử tương tác để tương tác với một hệ thống, ứng dụng hoặc thiết bị điện tử. Nó cung cấp một giao diện đồ họa dễ sử dụng và trực quan cho người dùng, cho phép họ thao tác và tương tác với các chức năng và tính năng của hệ thống thông qua các phần tử hình ảnh và điều khiển.
+
+GUI bao gồm các yếu tố sau:
+
+1. Cửa sổ: Hệ thống GUI chia màn hình thành các cửa sổ riêng biệt, mỗi cửa sổ chứa nội dung hoặc chức năng cụ thể. Các cửa sổ có thể được di chuyển, thay đổi kích thước và xếp chồng lên nhau.
+
+2. Đồ họa: GUI sử dụng các yếu tố hình ảnh, biểu đồ, biểu đồ và biểu đồ để hiển thị thông tin và truyền đạt ý nghĩa cho người dùng. Đồ họa giúp tạo ra một giao diện trực quan và hấp dẫn.
+
+3. Các điều khiển: GUI cung cấp các điều khiển tương tác như nút bấm, hộp chọn, ô nhập liệu, thanh trượt và menu để người dùng có thể tương tác và thực hiện các hành động.
+
+4. Hình ảnh: GUI sử dụng hình ảnh và biểu tượng để đại diện cho các chức năng, tác vụ và đối tượng. Sử dụng các biểu tượng giúp người dùng dễ dàng nhận biết và hiểu các chức năng và hành động một cách nhanh chóng.
+
+5. Đa phương tiện: GUI hỗ trợ hiển thị và phát lại nội dung đa phương tiện như hình ảnh, âm thanh và video. Điều này cho phép người dùng trải nghiệm các nội dung đa phương tiện trực quan và tương tác.
+
+GUI ==> Giao diện trực quan
+
+### 💥 menu-driven user interface
+
+Menu-driven User Interface (UI) là một hình thức giao diện người dùng trong đó người dùng tương tác với hệ thống hoặc ứng dụng thông qua các menu và lựa chọn được cung cấp. Thay vì phải gõ các lệnh hoặc câu lệnh văn bản, người dùng có thể điều hướng và thực hiện các tác vụ bằng cách chọn từ danh sách các tùy chọn được hiển thị trên màn hình
+
+Menu-driven UI thường được sử dụng trong các ứng dụng
+- Máy tính, phần mềm
+- điện thoại di động, máy tính bảng
+- iPods
+- Recorder
+- Máy ATM, Máy bán vé tự động
+
+### 💥 touch user interface
+
+Touch User Interface (TUI) là một hình thức giao diện người dùng cho phép người dùng tương tác với một hệ thống, thiết bị hoặc ứng dụng bằng cách sử dụng cử chỉ và chạm trên một màn hình cảm ứng. TUI cho phép người dùng điều khiển và tương tác với các yếu tố trên màn hình bằng cách sử dụng ngón tay hoặc công cụ cảm ứng khác.
+
+- Điện thoại
+- Pos tự động
+- Máy tra cứu thông tin ở sân bay, bảo tàng
+
+
 ### 💥 voice user interface (VUI)
-### 💥 form-based user interface.
+
+Voice User Interface (VUI) là một hình thức giao diện người dùng cho phép người dùng tương tác với hệ thống, thiết bị hoặc ứng dụng bằng giọng nói. VUI sử dụng công nghệ nhận dạng giọng nói để hiểu và diễn giải các lệnh và câu hỏi được phát ra bằng giọng nói từ người dùng.
+
+Thấy ở các thiết bị thông minh có tích hợp tìm kiếm và ra lệnh bằng giọng nói: Tivi, thết bị có Trợ lý ảo Google, alexa...
+
+### 💥 form-based user interface
+
+Form-based User Interface (UI) là một hình thức giao diện người dùng trong đó người dùng tương tác với hệ thống hoặc ứng dụng bằng cách nhập thông tin vào các biểu mẫu (form). Đây là một phương thức phổ biến để thu thập thông tin từ người dùng và thực hiện các tác vụ liên quan
+
 ### 💥 natural language user interface
 
+Natural Language User Interface (NUI) là một hình thức giao diện người dùng cho phép người dùng tương tác với hệ thống, thiết bị hoặc ứng dụng bằng ngôn ngữ tự nhiên, giống như cách người ta nói chuyện với nhau. NUI sử dụng công nghệ xử lý ngôn ngữ tự nhiên để hiểu và đáp ứng các câu lệnh, câu hỏi và yêu cầu từ người dùng
+
+Các ví dụ của NUI bao gồm trợ lý ảo (như Siri, Google Assistant, Amazon Alexa), chatbot, hệ thống trả lời tự động và các ứng dụng hỗ trợ tương tác bằng giọng nói. NUI cung cấp một phương thức tương tác tự nhiên và thuận tiện cho người dùng, giúp họ tương tác với hệ thống một cách trực quan và thoải mái hơn.
+
 ## 💛 Processes in User Interface Design
+
+### 💥 Step 1 - Interface Analysis
+
+Phân tích giao diện
+
+### 💥 Step 2 - Interface Design
+
+Phân tích thiết kế
+
+### 💥 Step 3 - Interface Construction / Implementation
+
+Xây dựng / Triển khai giao diện
+
+### 💥 Step 4 - Interface Evaluation
+
+Đánh giá giao diện
 
 
 ## 💛 Models in User Interface Design
 
+### 💥 User Model
+
+Mô hình người dùng
+
+### 💥 Mental Model
+
+Mô hình tư duy
+
+### 💥 Design Model
+
+Mô hình thiết kế
+
+### 💥 Implementation Model
+
+Mô hình triển khai
+
 
 ## 💛 Principles of Mobile User Interface Design
+
+Những nguyên tắc thiết kế giao diện Mobile
+
+1. Content-First Approach: Tiếp cận nội dung đầu tiên
+2. Importance of Fullscreen: Tầm quan trọng của việc hiện thị FullScreen
+3. Avoiding Clutter: Tránh sự lộn xộn
+4. Creating the First Impression: Tạo ấn tượng đầu tiên
+5. Focusing on User: Tập trung vào người dùng 
+6. Using Color Psychology: Sử dụng màu sắc theo tâm lý người dùng
+7. HighResolution Images: Hình ảnh có độ phân giải cao
 
 
 ## 💛 Color Theory
 
+Lý thuyết về Màu sắc
+
+Tham khảo:
+
+- https://www.w3schools.com/colors/colors_theory.asp
+- https://www.interaction-design.org/literature/topics/color-theory#:~:text=Color%20theory%20is%20the%20study,right%20colors%20for%20their%20projects.
+
 ## 💛 Design Thinking
+
+
+## 💛 Best Practices in UI Design
 
 
 ## 💛 Summary
