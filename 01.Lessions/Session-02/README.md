@@ -122,3 +122,10 @@ Nguyên tắc này liên quan đến việc tạo ra một cảm giác tin cậy
 Nó tập trung vào việc tạo ra một giao diện người dùng mà người dùng có thể hiểu và tương tác một cách dễ dàng và rõ ràng mà không cần học cách sử dụng.
 
 >Xem thêm: https://www.uxdesigninstitute.com/blog/ux-design-principles/
+
+
+## 💛 User Experience Design Process
+
+Quá trình được lặp đi lặp lại cho đến khi đưa vào vận hành.
+
+![uiux](img/dev-process.png)

@@ -8,6 +8,8 @@ User Interface (UI) là giao diện người dùng, nghĩa là phần mà ngư�
 
 UI bao gồm các thành phần như các nút bấm, ô nhập liệu, menu, thanh công cụ, hình ảnh, biểu đồ và các phần tử khác mà người dùng có thể tương tác trực tiếp. Mục đích chính của UI là cung cấp một cách tương tác dễ dàng và hiệu quả cho người dùng, giúp họ thực hiện các tác vụ và hoạt động trên hệ thống một cách thuận tiện.
 
+Xem thêm: https://www.techtarget.com/searchapparchitecture/definition/user-interface-UI
+
 ## 💛 What is User Interface Design (UID)?
 
 User Interface Design (Thiết kế giao diện người dùng) là quá trình tạo ra giao diện người dùng cho một hệ thống, ứng dụng hoặc sản phẩm. Nó liên quan đến việc thiết kế các yếu tố giao diện như cấu trúc, hình dạng, màu sắc, hình ảnh, văn bản và các phần tử tương tác khác để tạo ra một giao diện hấp dẫn, trực quan và dễ sử dụng cho người dùng.
