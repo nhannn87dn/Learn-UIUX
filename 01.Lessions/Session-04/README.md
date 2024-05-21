@@ -56,3 +56,11 @@ Các thành phần tập trung vào con người
 Chiến lược nội dung liên quan đến thiết kế UX như thế nào ?
 
 Xem thêm: https://uxmag.com/articles/content-strategy-and-ux-a-modern-love-story
+
+
+## 💛 What is Content Audit ?
+
+Kiểm toán nội dung --> Test lại, review lại toàn bộ công việc đã làm.
+
+Bằng cách lập kế hoạch thành file,
+
