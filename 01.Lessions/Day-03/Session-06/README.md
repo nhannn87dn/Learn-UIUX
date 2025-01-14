@@ -25,12 +25,27 @@ Tuy nhiên, Black Box Testing được sử dụng thích hợp nhất trong ki�
 
 Mục đích chính của Black Box Testing chỉ là để xem phần mềm có hoạt động như dự kiến và liệu nó có đáp ứng được sự mong đợi của người dùng hay không.
 
+---
+
 ## 💛 Steps to Perform Black Box Testing
 
 Các bước kiểm thử Black Box
 
 ![black](img/process-black-box.png)
 
+---
+
+## 💛 Key Components of Usability Testing
+
+---
+
+## 💛 Key Components of Usability Testing
+
+---
+
+## 💛 Advantages of Using Usability Testing for an Organization
+
+---
 
 ## 💛 Benefits of Using Usability Testing for End Users
 
@@ -41,5 +56,19 @@ Lợi ích khi test đánh giá tính khả dụng cho người dùng.
 - Người dùng dễ chấp nhận hơn
 - Rút ngắn thời gian hướng dẫn cho người dùng mới
 
+---
+
 ## 💛 Checklist of Usability Testing
+
+---
+
+## 💛 Steps to Perform Usability Testing
+
+---
+
+## 💛 Limitation of Usability Testing
+
+---
+
+## 💛 Tools Used for Responsive Design Testing
 

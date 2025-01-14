@@ -21,6 +21,14 @@ Xem thêm: https://m2.material.io/components/navigation-drawer#standard-drawer
 
 Thuật ngữ này được gọi là phân trang xếp chồng (Hay còn gọi là load more)
 
+
+---
+
 ## 💛 Fluid Images
 
 Cách thức co giản hình ảnh theo độ rộng của vùng hiển thị. 
+
+---
+
+## 💛 Navigation Menus
+
