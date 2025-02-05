@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        /* Default styles for the box */
+        .box {
+            width: 50px;
+            height: 50px;
+            background-color: red;
+            color: white;
+        }
+        .banner img{
+            width: 100%;
+        }
+        /* For screen width less than 768px */  
+        @media (max-width: 768px) {
+            .box {
+                width: 100%;
+                background-color: green;
+                text-align: center;
+            }
+        }
+        /* For screen width less than 452px */
+        @media (max-width: 452px) {
+            .box {
+                background-color: blue;
+            }
+        }
+
+    </style>
+</head>
+<body>
+    <div class="box">
+        Box
+    </div>
+    <div class="banner">
+        <img src="https://cdnv2.tgdd.vn/mwg-static/tgdd/Banner/80/b7/80b7a5a66f8627736f5c2553ce736083.jpg" alt="">
+    </div>
+</body>
+</html>
