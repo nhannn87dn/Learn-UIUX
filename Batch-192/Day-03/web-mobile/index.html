@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mobile</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header >
+        <div class="header-middle">
+            <div class="container-mobile">
+                <div class="header-middle-wrapper flex items-center justify-between">
+                    <div onclick="toggleMenu()" class="menu" id="toggle-menu">
+                        <i class="fa fa-bars" aria-hidden="true"></i>
+                    </div>
+                    <div class="logo">
+                        LOGO
+                    </div>
+                    <div class="cart">
+                        <i class="fa fa-shopping-cart" aria-hidden="true"></i>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- menu Mobile -->
+         <nav class="menu-mobile hidden" id="menu-mobile">
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">About</a></li>
+                <li><a href="#">Services</a></li>
+                <li><a href="#">Contact</a></li>
+            </ul>
+         </nav>
+    </header>
+    <main>
+        <div class="container-mobile">
+            <div class="main-content" style="height: 2000px;">
+                Lorem ipsum, dolor sit amet consectetur adipisicing elit. Delectus beatae dolore, ab cumque porro vitae recusandae animi quasi et. Necessitatibus ad fugit veritatis quas incidunt itaque repudiandae quo quia rem!
+            </div>
+        </div>
+    </main>
+    <footer>
+        Footer
+    </footer>
+
+    <nav class="bottom-bar">
+        <ul class="flex items-center">
+            <li><a href="#" class="flex flex-column items-center">
+                <span class="icon">
+                    <i class="fa-solid fa-star"></i>
+                </span>
+                <span class="label">
+                    Features
+                </span>
+            </a></li>
+            <li><a href="#" class="flex flex-column items-center">
+                <span class="icon">
+                    <i class="fa-solid fa-star"></i>
+                </span>
+                <span class="label">
+                    Top Chart
+                </span></a></li>
+            <li><a href="#" class="flex flex-column items-center">
+                <span class="icon">
+                    <i class="fa-solid fa-star"></i>
+                </span>
+                <span class="label">
+                    Near me
+                </span>
+                </a></li>
+            <li><a href="#"class="flex flex-column items-center">
+                <span class="icon">
+                    <i class="fa-solid fa-star"></i>
+                </span>
+                <span class="label">
+                    Search
+                </span>
+                </a></li>
+            <li><a href="#" class="flex flex-column items-center">
+                <span class="icon">
+                    <i class="fa-solid fa-star"></i>
+                </span>
+                <span class="label">
+                    Updated
+                </span>
+                </a></li>
+        </ul>
+    </nav>
+
+    <script>
+        function toggleMenu() {
+            var menu = document.getElementById('menu-mobile');
+            if (menu.classList.contains('hidden')) {
+                menu.classList.remove('hidden');
+            } else {
+                menu.classList.add('hidden');
+            }
+        }
+    </script>
+</body>
+</html>
