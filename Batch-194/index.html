@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .btn{
+            cursor: pointer;
+            background-color: #f80;
+            border-radius: 6px;
+            border: 0;
+            text-align: center;
+            padding: 6px 12px;
+            color: #fff;
+        }
+        .btn:hover{
+            background-color: rgb(227, 121, 1);
+        }
+        .btn:disabled {
+            background-color: #f3f3f3;
+            color: #777;
+        }
+        
+    </style>
+</head>
+<body>
+    <table class="table">
+  <thead>
+    <tr>
+      <th scope="col">#</th>
+      <th scope="col">First</th>
+      <th scope="col">Last</th>
+      <th scope="col">Handle</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">1</th>
+      <td>Mark</td>
+      <td>Otto</td>
+      <td>@mdo</td>
+    </tr>
+    <tr>
+      <th scope="row">2</th>
+      <td>Jacob</td>
+      <td>Thornton</td>
+      <td>@fat</td>
+    </tr>
+    <tr>
+      <th scope="row">3</th>
+      <td>John</td>
+      <td>Doe</td>
+      <td>@social</td>
+    </tr>
+  </tbody>
+</table>
+    <button disabled class="btn">Login</button>
+</body>
+</html>
