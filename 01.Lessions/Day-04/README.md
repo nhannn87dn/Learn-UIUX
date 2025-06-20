@@ -16,6 +16,11 @@ Trong bài học này các bạn cần nắm được một số khái niệm c�
 
 ## 🎓 1. Làm quen giao diện
 
+Video tự học nên xem:
+
+- https://www.youtube.com/watch?v=f1VYYjEhX2Q&list=PLZ52njWO5oxKNf7ZxH1YjH4lU80QefcZH&index=1
+- https://www.youtube.com/watch?v=aOptfPIWAVU&list=PLZ52njWO5oxKNf7ZxH1YjH4lU80QefcZH&index=2
+
 **Chủ đề: Frame, Shape, Text, và Layer**
 
 
@@ -111,6 +116,8 @@ Khi bạn mở Figma (bản web hoặc app), bạn sẽ thấy:
 
 ## 🎯 2. Auto Layout
 
+>Xem video: https://www.youtube.com/watch?v=1odqpkfkDL8
+
 ### 2.1. **AUTO LAYOUT** LÀ GÌ?
 
 > Là công cụ giúp bạn **bố trí và sắp xếp phần tử một cách tự động**, tương tự như **Flexbox** trong lập trình web.
@@ -172,6 +179,12 @@ Khi bạn mở Figma (bản web hoặc app), bạn sẽ thấy:
 
 
 ## 3. 🎯 Component & Instance
+
+Xem video: 
+
+- https://www.youtube.com/watch?v=rzBg1X_yx90&list=PLZ52njWO5oxKNf7ZxH1YjH4lU80QefcZH&index=3
+- https://www.youtube.com/watch?v=Aql5oob9yPU
+- https://www.youtube.com/watch?v=LvbLajlh-0w
 
 ### 3.1. COMPONENT LÀ GÌ?
 
@@ -378,6 +391,7 @@ Tạo một nút `Button` có 2 loại và 3 trạng thái bằng **Variants**
 
 ## 🎯 5. Prototype
 
+Xem video: https://www.youtube.com/watch?v=hhIOgo0W_t8&list=PLZ52njWO5oxKNf7ZxH1YjH4lU80QefcZH&index=5
 
 ### 5.1. PROTOTYPE LÀ GÌ?
 
